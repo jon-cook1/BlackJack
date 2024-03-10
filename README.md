@@ -27,7 +27,7 @@ Open your terminal or command prompt, navigate to the directory containing the g
 
 ### Modes
 
-The game can be launched in various modes:
+The game can be launched in various modes, see the source code in `main.py` to adjust:
 
 - **Interactive Mode**: Play with hints and make decisions on each hand.
 - **Gambling Odds Mode**: The game plays automatically to gather data on gambling odds. This mode does not require user interaction and will present statistics after running.
