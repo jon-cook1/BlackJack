@@ -18,8 +18,7 @@ This Python project is a versatile Blackjack game simulation that includes sever
 
 ### Installation
 
-1. Ensure Python 3.x is installed on your system.
-2. Download or clone this repository to your local machine.
+1. Clone this repository or download the game files to your local machine.
 
 ### How to Run
 
