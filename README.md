@@ -18,7 +18,7 @@ This Python project is a versatile Blackjack game simulation that includes sever
 
 ### Installation
 
-1. Clone this repository or download the game files to your local machine.
+- Clone this repository or download the game files to your local machine.
 
 ### How to Run
 
